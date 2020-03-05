@@ -1,4 +1,4 @@
-# Denoising-Autoencoder-using-tensorflow-for-DIH-images
+# Denoising-Autoencoder-for-denoising-of-DIH-images
 
 Autoencoder.ipynb contains Denoising autoencoder made from scratch as well as using tensorflow.
 
